@@ -5,8 +5,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Jeroen Noten",
-            "email": "jeroennoten@me.com"
+            "name": "Sciuto Benedetto",
+            "email": "betto.sciuto@gmail.com"
         }
     ],
     "require": {
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Nutsweb\\LaravelPrerender\\": "src/"
+            "Oixan\\LaravelPrerender\\": "src/"
         }
     }
 }

@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Nutsweb\LaravelPrerender;
+namespace Oixan\LaravelPrerender;
 
 
 use Closure;

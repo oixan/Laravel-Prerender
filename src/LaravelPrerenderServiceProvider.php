@@ -1,4 +1,4 @@
-<?php namespace Nutsweb\LaravelPrerender;
+<?php namespace Oixan\LaravelPrerender;
 
 use App;
 use GuzzleHttp\Client;

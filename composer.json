@@ -1,5 +1,5 @@
 {
-    "name": "nutsweb/laravel-prerender",
+    "name": "oixan/laravel-prerender",
     "description": "Laravel middleware for prerendering javascript-rendered pages on the fly for SEO",
     "keywords": ["laravel", "prerender"],
     "license": "MIT",

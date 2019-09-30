@@ -18,7 +18,7 @@ Require this package run: `composer require nutsweb/laravel-prerender`
 
 After installing, add the ServiceProvider to the providers array in `config/app.php`.
 
-    'Nutsweb\LaravelPrerender\LaravelPrerenderServiceProvider',
+    'Oixan\LaravelPrerender\LaravelPrerenderServiceProvider',
 
 If you want to make use of the prerender.io service, add the following to your `.env` file:
 
